@@ -1,0 +1,71 @@
+.h11{
+    position: absolute;
+    left: 48%;
+    color: rgb(0, 100, 0);
+}
+.img1{
+    width: 80%;
+    height: 30%;
+    margin-left:200px ;
+}
+
+.p1{
+    font-size: 25px;
+    color: rgba(rgb(0, 0, 0), rgb(0, 0, 0), rgb(0, 0, 0), 0);
+    margin-left: 80%;
+}
+
+.num{
+    height: 30px;
+    width: 270px;
+    border-radius: 4px;
+    margin-left: 75%;
+    position: absolute;
+    top: 660px;
+    right: 220px;
+    border: 2px rgb(2, 153, 9) solid;
+}
+
+.use{
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    top: 666px;
+    right: 225px;
+}
+
+.p2{
+    font-size: 25px;
+    color: rgba(rgb(0, 0, 0), rgb(0, 0, 0), rgb(0, 0, 0), 0);
+    margin-left: 80%;
+    margin-top: 80px ;
+}
+
+.pass{
+    height: 30px;
+    width: 270px;
+    border-radius: 4px;
+    margin-left: 75%;
+    position: absolute;
+    top: 770px;
+    right: 220px;   
+    border: 2px rgb(2, 153, 9) solid;
+}
+
+.loc{
+    height: 20px;
+    width: 20px;
+    position: absolute;
+    top: 776px;
+    right: 225px;
+}
+.ck{
+    position: absolute;
+    top: 810px;
+    right: 220px;
+}
+.p3{
+    color: rgba(rgb(0, 0, 0), rgb(0, 0, 0), rgb(0, 0, 0), 0);
+    margin-left: 78%;
+    margin-top: 50px ;
+}
